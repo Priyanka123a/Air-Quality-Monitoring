@@ -1,3 +1,5 @@
+##SUBMITTED BY HARIHARASUTHAN.M VINOTH KUMAR.M RASHWIN SAMUEL College Name: UNIVERSITY COLLEGE OF ENGINEERING, NAGERCOIL##
+
 This project reads temperature and humidity data using a DHT22 sensor and displays the values on a 16x2 I2C LCD screen. The program is implemented using the DHTesp and LiquidCrystal_I2C libraries for easy interfacing with the sensor and LCD module. The data is also printed to the serial monitor for debugging or additional use. This setup is suitable for IoT applications, prototyping, and educational purposes.
 
 Features:
